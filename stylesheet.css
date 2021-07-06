@@ -1,0 +1,70 @@
+.image-center{
+    padding-top: 109px;
+    margin-left: 720px;
+}
+
+.navbar {
+    padding: 0 0 5 30px;
+    margin: auto;
+    background-color:silver;
+}
+
+.gap-between-logo-search {
+    padding-top: 50px;
+}
+
+#navbar-text {
+    color: rgb(34, 34, 34)
+}
+
+.custom-search {
+    height: 2rem;
+    width: 30rem;
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-left: 30%;
+}
+
+.footer-dir {
+    margin-top: 530px;
+    background-color: silver;
+    padding: 0rem 0rem 0.3rem;
+}
+
+#shifting-ele {
+    text-align: right;
+}
+
+#top-shift-ele {
+    text-align: right;
+}
+
+.butt-area {
+    margin-left: 38%;
+}
+
+input:hover {
+    display: flex;
+    box-shadow: 3px -3px gray, -3px 3px gray;
+    opacity: 30%;
+}
+
+#butt-text {
+    padding: 0.4rem;
+    list-style: none;
+}
+
+.temp-cla {
+    margin-top:0px;
+    margin-left: 4rem;
+}
+
+#icon {
+    background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20px;
+    background-position: left;
+    text-indent: 30px;
+}
+
